@@ -83,10 +83,13 @@ public class SpeedingTickets {
             } else if (schoolConstruction == 1) {
                 System.out.println("$121");   
 
+                
             }
         }
     }
 }
+
+
 
 
             
