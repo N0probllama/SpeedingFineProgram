@@ -1,6 +1,0 @@
-## Java ##
-
-# Maven
-- (^|/)mvnw$
-- (^|/)mvnw\.cmd$
-- (^|/)\.mvn/wrapper/
