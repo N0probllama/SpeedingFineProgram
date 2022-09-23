@@ -12,7 +12,6 @@
  * Fines are calculated using the driver's speed, the posted speed limit of the drivers area and whether the 
  * driving location is within a school zone or construction zone. 
  * Fines are also calculated for those who drive 20km/hr below the posted speed limit.
-
  */
 
 import java.util.Scanner;
@@ -83,7 +82,7 @@ public class SpeedingTickets {
             } else if (schoolConstruction == 1) {
                 System.out.println("$121");   
 
-                
+
             }
         }
     }
