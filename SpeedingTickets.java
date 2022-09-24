@@ -9,10 +9,11 @@
  * who are non-compliant with driving laws.
  * 
  * This project is designed to allow users to input driving data to calculate driving fines.
- * Fines are calculated using the driver's speed, the posted speed limit of the drivers area and whether the 
- * driving location is within a school zone or construction zone. 
+ * Fines are calculated using the driver's speed, the posted speed limit for area and whether the 
+ * location is within a school zone or construction zone. 
  * Fines are also calculated for those who drive 20km/hr below the posted speed limit.
- *  */
+ *  
+ */
 
 import java.util.Scanner;
 public class SpeedingTickets {
