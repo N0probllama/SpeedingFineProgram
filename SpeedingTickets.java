@@ -81,7 +81,7 @@ public class SpeedingTickets {
                 System.out.println("$121");
 
             } else if (schoolConstruction == 1) {
-                System.out.println("$121");   
+                System.out.println("$121");    
 
 
             }
