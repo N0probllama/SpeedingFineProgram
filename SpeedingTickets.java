@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class SpeedingTickets {
     public static void main(String []args) {
         //Scanner utility for reading user input.
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); 
 
         //Promt user for speed input in km/hr.
         System.out.print("Enter speed driven in km/h: ");
